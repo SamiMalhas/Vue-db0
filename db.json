@@ -1,0 +1,21 @@
+{
+    id: 1,
+    title: 'Event 1',
+    description: 'I am event one, hi',
+    location: 'amman',
+    date: '2023'
+  },
+  {
+    id: 2,
+    title: 'Event 2',
+    description: 'I am event two, hi',
+    location: 'Dubai',
+    date: '2023'
+  },
+  {
+    id: 3,
+    title: 'Event 3',
+    description: 'I am event three, hi',
+    location: 'amman',
+    date: '2024'
+  }
